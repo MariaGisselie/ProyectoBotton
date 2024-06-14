@@ -1,6 +1,7 @@
 # Proyecto Diseño de formulario en JavaFx
 IMAGEN 
-![image](https://github.com/MariaGisselie/ProyectoBotton/assets/169214799/fadf5a10-2a06-4c19-bb13-02ab3cc93f42)
+![image](https://github.com/MariaGisselie/ProyectoBotton/assets/169214799/3191997f-5c17-4885-8400-ec7c15fd8848)
+
 # Botón
 Un botón en JavaFX es un control de interfaz de usuario que permite a los usuarios interactuar con una aplicación. Al hacer clic en un botón, se puede desencadenar una acción, como abrir una nueva ventana, mostrar un mensaje o ejecutar una función.
 
